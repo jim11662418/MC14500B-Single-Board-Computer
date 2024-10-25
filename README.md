@@ -1,5 +1,5 @@
 # MC14500B-Single-Board-Computer
-A simple single board computer built around the MC14500B 1-bit CPU.
+A simple single board computer built around the MC14500B 1-bit CPU. Assemble the examples with the [Macro Assembler AS](http://john.ccac.rwth-aachen.de:8000/as/).
 
 
 https://github.com/user-attachments/assets/ec4d29fc-01d5-4e08-8e59-84770ce1ad18
