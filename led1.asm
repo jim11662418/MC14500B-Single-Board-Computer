@@ -3,6 +3,7 @@
       org 0000H
 
       orc RR         ; set RR to '1'
+      ien RR         ; enable inputs      
       oen RR         ; enable outputs       
         
       ld 7           ; input 7 is connected to RR (which is '1')

@@ -3,7 +3,10 @@
       org 0000H
 
       orc RR         ; set RR to '1'
-      oen RR         ; enable outputs               
+      ien RR         ; enable inputs
+      oen RR         ; enable outputs  
+
+      ld 7           ; input 7 is connected to RR (which is '1')      
       sto OUT0       ; turn on LED 0
       sto OUT1       ; turn on LED 1
       sto OUT2       ; turn on LED 2
