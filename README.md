@@ -9,3 +9,7 @@ A simple single board computer built around the MC14500B 1-bit CPU.
 <p align="center">MC14500B SBC Input/Output</p><br>
 <p align="center"><img src="/images/MC14500B SBC LEDs.png"/>
 <p align="center">MC14500B SBC LEDs</p><br>
+
+
+https://github.com/user-attachments/assets/d9799cf8-a671-4fbd-9b24-12ec01cbaacf
+
